@@ -1,0 +1,9 @@
+[package]
+name = "emotional-colorist"
+version = "0.1.0"
+edition = "2021"
+description = "Valence-arousal based color mapping for emotional states, with mood tracking and ambient TUI display"
+license = "MIT"
+repository = "https://github.com/SuperInstance/emotional-colorist"
+
+[dependencies]
